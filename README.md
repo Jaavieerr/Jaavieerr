@@ -1,7 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF66,100:000000&height=200&section=header&text=ALBEY%20NARO%20JAVIER&fontSize=42&fontAlignY=36&desc=%24_FULLSTACK%20%26%20BACKEND%20DEVELOPER%20%7C%20HIGH-CONCURRENCY%20APIS&descAlignY=60&descAlign=50&fontColor=00FF66&animation=twinkling" width="100%" alt="Header Waving" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaavieerr/Jaavieerr/main/assets/profile.svg" alt="Animated Terminal Matrix" width="100%" />
+</p>
+
 <a href="https://github.com/Jaavieerr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF66&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_ROLE%3A_FULLSTACK_%26_BACKEND_DEVELOPER;%24_CORE%3A_HIGH_PERFORMANCE_WEB_APIS_%7C_CLEAN_CODE;%24_STACK%3A_TYPESCRIPT_%7C_REACT_%7C_LARAVEL_%7C_POSTGRESQL" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=00FF66&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_ROLE%3A_FULLSTACK_%26_BACKEND_DEVELOPER;%24_CORE%3A_HIGH_PERFORMANCE_WEB_APIS_%7C_CLEAN_CODE;%24_STACK%3A_TYPESCRIPT_%7C_REACT_%7C_LARAVEL_%7C_POSTGRESQL" alt="Typing Terminal" />
 </a>
 
 <p align="center">
@@ -93,7 +99,15 @@ STATUS   : [ONLINE - READY TO BUILD]
 
 ---
 
-### `[07] SECURE_CHANNELS`
+### `[07] DEV_QUOTE_TRANSMISSION`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+---
+
+### `[08] SECURE_CHANNELS`
 
 <div align="center">
 
@@ -112,5 +126,9 @@ STATUS   : [ONLINE - READY TO BUILD]
 <a href="https://t.me">
   <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF66" alt="Telegram"/>
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF66,100:000000&height=120&section=footer" width="100%" alt="Footer Waving" />
 
 </div>

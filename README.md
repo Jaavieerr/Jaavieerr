@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaavieerr/Jaavieerr/main/assets/profile.svg" alt="Animated Terminal Matrix" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jaavieerr/Jaavieerr/main/assets/profile.svg" alt="Terminal Matrix" width="100%" />
 </p>
 
 <a href="https://github.com/Jaavieerr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=00FF66&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_ROLE%3A_FULLSTACK_%26_BACKEND_DEVELOPER;%24_CORE%3A_HIGH_PERFORMANCE_WEB_APIS_%7C_CLEAN_CODE;%24_STACK%3A_TYPESCRIPT_%7C_REACT_%7C_LARAVEL_%7C_POSTGRESQL" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=500&color=00D8FF&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_OPERATOR%3A_ALBEYNARO_JAVIER;%24_ROLE%3A_FULLSTACK_%26_BACKEND_DEVELOPER;%24_CORE%3A_HIGH_PERFORMANCE_WEB_APIS_%7C_CLEAN_CODE;%24_STACK%3A_TYPESCRIPT_%7C_REACT_%7C_LARAVEL_%7C_POSTGRESQL" alt="Typing Terminal" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-ROOT_CLEARANCE_0-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Root" />
-  <img src="https://img.shields.io/badge/WORKSTATION-WINDOWS_11-000000?style=for-the-badge&logo=windows11&logoColor=00FF66" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/STATUS-DEVELOPER_ACTIVE_24%2F7-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Jaavieerr&label=PROFILE_VIEWS&color=000000&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/SECURITY-ROOT_CLEARANCE_0-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Root" />
+  <img src="https://img.shields.io/badge/WORKSTATION-WINDOWS_11-007ACC?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPER_ACTIVE_24%2F7-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Jaavieerr&label=PROFILE_VIEWS&color=007ACC&style=for-the-badge" alt="Views" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### `[01] SYSTEM_MANIFEST`
 
 ```yaml
-IDENTITY : Albey Naro Javier
+IDENTITY : Albeynaro Javier
 HANDLE   : @Jaavieerr
 ROLE     : Fullstack & Backend Developer
 OS       : Windows 11 Pro / PowerShell
@@ -74,12 +74,12 @@ STATUS   : [ONLINE - READY TO BUILD]
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Jaavieerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF66&text_color=E6EDF3&icon_color=00FF66&border_color=00FF66" alt="GitHub Stats" />
-<img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaavieerr&layout=compact&theme=radical&bg_color=000000&title_color=00FF66&text_color=E6EDF3&border_color=00FF66" alt="Top Languages" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Jaavieerr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=050b14&title_color=00D8FF&text_color=E6EDF3&icon_color=00D8FF&border_color=007ACC" alt="GitHub Stats" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaavieerr&layout=compact&theme=tokyonight&bg_color=050b14&title_color=00D8FF&text_color=E6EDF3&border_color=007ACC" alt="Top Languages" />
 
 <br/>
 
-<img height="185em" src="https://streak-stats.demolab.com/?user=Jaavieerr&theme=radical&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&sideNums=E6EDF3&dates=E6EDF3" alt="GitHub Streak" />
+<img height="185em" src="https://streak-stats.demolab.com/?user=Jaavieerr&theme=tokyonight&background=050b14&border=007ACC&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideLabels=00D8FF&sideNums=E6EDF3&dates=E6EDF3" alt="GitHub Streak" />
 
 </div>
 
@@ -88,7 +88,7 @@ STATUS   : [ONLINE - READY TO BUILD]
 ### `[05] PROFILE_DETAILS_RADAR`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaavieerr&theme=radical" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaavieerr&theme=tokyonight" alt="Profile Summary Card" />
 </div>
 
 ---
@@ -104,7 +104,7 @@ STATUS   : [ONLINE - READY TO BUILD]
 ### `[07] DEV_QUOTE_TRANSMISSION`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
@@ -114,19 +114,19 @@ STATUS   : [ONLINE - READY TO BUILD]
 <div align="center">
 
 <a href="https://github.com/Jaavieerr">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D8FF" alt="GitHub"/>
 </a>
 <a href="mailto:albeynarojavier@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00D8FF" alt="Gmail"/>
 </a>
 <a href="https://portofolio-javier-2857.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF66" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00D8FF" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D8FF" alt="LinkedIn"/>
 </a>
 <a href="https://t.me">
-  <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF66" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00D8FF" alt="Telegram"/>
 </a>
 
 </div>

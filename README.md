@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/Jaavieerr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF66&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_ROLE%3A_SENIOR_SOFTWARE_ENGINEER_%26_SYSTEMS_ARCHITECT;%24_CORE%3A_HIGH_CONCURRENCY_APIS_%7C_MICROSERVICES;%24_STACK%3A_TYPESCRIPT_%7C_LARAVEL_%7C_POSTGRESQL_%7C_DOCKER" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00FF66&background=00000000&center=true&vCenter=true&width=900&lines=%24_INIT_SYSTEM_UPLINK%3A_JAAVIEERR;%24_ROLE%3A_FULLSTACK_%26_BACKEND_DEVELOPER;%24_CORE%3A_HIGH_PERFORMANCE_WEB_APIS_%7C_CLEAN_CODE;%24_STACK%3A_TYPESCRIPT_%7C_REACT_%7C_LARAVEL_%7C_POSTGRESQL" alt="Typing Terminal" />
 </a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SECURITY-ROOT_CLEARANCE_0-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Root" />
-  <img src="https://img.shields.io/badge/KERNEL-LINUX_x86__64-000000?style=for-the-badge&logo=archlinux&logoColor=00FF66" alt="Linux" />
-  <img src="https://img.shields.io/badge/STATUS-DAEMON_ACTIVE_24%2F7-000000?style=for-the-badge&logo=gnubash&logoColor=00FF66" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Jaavieerr&label=TELEMETRY_PINGS&color=000000&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/WORKSTATION-WINDOWS_11-000000?style=for-the-badge&logo=windows11&logoColor=00FF66" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPER_ACTIVE_24%2F7-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Jaavieerr&label=PROFILE_VIEWS&color=000000&style=for-the-badge" alt="Views" />
 </p>
 
 ---
@@ -24,11 +24,12 @@
 ```yaml
 IDENTITY : Albey Naro Javier
 HANDLE   : @Jaavieerr
-ROLE     : Fullstack & Systems Engineer
-ENGINE   : High-Performance Backends & Microservices
-RUNTIME  : Node.js / PHP / Containerized Linux
-LOCATION : Remote / Cloud
-STATUS   : [ONLINE - 99.99% UPTIME]
+ROLE     : Fullstack & Backend Developer
+OS       : Windows 11 Pro / PowerShell
+ENGINE   : High-Performance Web Apps & REST APIs
+STACK    : TypeScript, PHP/Laravel, PostgreSQL, React
+LOCATION : Indonesia
+STATUS   : [ONLINE - READY TO BUILD]
 ```
 
 </td>
@@ -55,7 +56,7 @@ STATUS   : [ONLINE - 99.99% UPTIME]
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,php,laravel,nodejs,react,nextjs,tailwind,postgres,mysql,sqlite,redis,docker,linux,bash,git,github,neovim&perline=9&theme=dark" alt="Arsenal" />
+    <img src="https://skillicons.dev/icons?i=ts,js,php,laravel,nodejs,react,nextjs,tailwind,postgres,mysql,sqlite,redis,docker,windows,powershell,git,github,vscode&perline=9&theme=dark" alt="Arsenal" />
   </a>
 </div>
 

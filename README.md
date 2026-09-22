@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF66,100:000000&height=200&section=header&text=ALBEY%20NARO%20JAVIER&fontSize=42&fontAlignY=36&desc=%24_FULLSTACK%20%26%20BACKEND%20DEVELOPER%20%7C%20HIGH-CONCURRENCY%20APIS&descAlignY=60&descAlign=50&fontColor=00FF66&animation=twinkling" width="100%" alt="Header Waving" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaavieerr/Jaavieerr/main/assets/header.svg" alt="Cyber Header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaavieerr/Jaavieerr/main/assets/profile.svg" alt="Animated Terminal Matrix" width="100%" />
@@ -126,9 +128,5 @@ STATUS   : [ONLINE - READY TO BUILD]
 <a href="https://t.me">
   <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF66" alt="Telegram"/>
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF66,100:000000&height=120&section=footer" width="100%" alt="Footer Waving" />
 
 </div>

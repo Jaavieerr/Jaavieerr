@@ -65,21 +65,21 @@ STATUS   : [ONLINE - 99.99% UPTIME]
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jaavieerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF66&text_color=E6EDF3&icon_color=00FF66&border_color=00FF66" alt="Stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaavieerr&layout=compact&theme=radical&bg_color=000000&title_color=00FF66&text_color=E6EDF3&border_color=00FF66" alt="Top Langs" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=Jaavieerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF66&text_color=E6EDF3&icon_color=00FF66&border_color=00FF66" alt="GitHub Stats" />
+<img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaavieerr&layout=compact&theme=radical&bg_color=000000&title_color=00FF66&text_color=E6EDF3&border_color=00FF66" alt="Top Languages" />
 
 <br/>
 
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaavieerr&theme=radical&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&sideNums=E6EDF3&dates=E6EDF3" alt="Streak" />
+<img height="185em" src="https://streak-stats.demolab.com/?user=Jaavieerr&theme=radical&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&sideNums=E6EDF3&dates=E6EDF3" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### `[05] COMMIT_ACTIVITY_STREAM`
+### `[05] PROFILE_DETAILS_RADAR`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaavieerr&theme=matrix&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=false&border_color=00FF66" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaavieerr&theme=radical" alt="Profile Summary Card" />
 </div>
 
 ---
